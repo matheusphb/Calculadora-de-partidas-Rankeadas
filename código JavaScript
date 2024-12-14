@@ -27,4 +27,4 @@ function calcularRank(vitorias, derrotas) {
 }
 
 // Exemplo de uso da função
-calcularRank(30, 10); // Resultado esperado: "O Herói tem de saldo de 20 está no nível de Prata"
+//calcularRank(30, 10); // Resultado esperado: "O Herói tem de saldo de 20 está no nível de Prata"
